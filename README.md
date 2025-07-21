@@ -39,4 +39,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketch502m&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Ketch502m" /></p> 
 
-[![wakatime]<a href="https://wakatime.com/@4f7352ed-785c-4fe0-b33f-cbd0619c2005"><img src="https://wakatime.com/badge/user/4f7352ed-785c-4fe0-b33f-cbd0619c2005.svg" alt="Total time coded since Jul 21 2025" /></a>
+[![wakatime](https://wakatime.com/badge/user/4f7352ed-785c-4fe0-b33f-cbd0619c2005.svg)](https://wakatime.com/@4f7352ed-785c-4fe0-b33f-cbd0619c2005)
