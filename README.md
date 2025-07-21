@@ -41,4 +41,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/4f7352ed-785c-4fe0-b33f-cbd0619c2005.svg)](https://wakatime.com/@4f7352ed-785c-4fe0-b33f-cbd0619c2005)
 
-[![ketch502m WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KETCH502M)](https://github.com/Ketch502m/Ketch502m.github.io)
+[![Ketch502m WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KETCH502M)](https://github.com/anuraghazra/github-readme-stats)
