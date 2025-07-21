@@ -40,3 +40,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketch502m&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Ketch502m" /></p> 
 
 [![wakatime](https://wakatime.com/badge/user/4f7352ed-785c-4fe0-b33f-cbd0619c2005.svg)](https://wakatime.com/@4f7352ed-785c-4fe0-b33f-cbd0619c2005)
+
+[![ketch502m WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ketch502m)](https://github.com/ketch502m/readme-stats)
+[![ketch502m WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ketch502m)](https://github.com/ketch502m/ketch502m.github.io)
