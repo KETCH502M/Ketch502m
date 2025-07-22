@@ -28,12 +28,6 @@
 </a> </p>
 
 ------
-## Top Repositories
-<a href="https://github.com/Ketch502m/ketch502m.github.io"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ketch502m&repo=ketch502m.github.io&theme=transparent" /> 
-</a>
-
-------
 <div align="center"> <a href="https://github.com/Ketch502x"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ketch502m&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> 
 
