@@ -30,7 +30,7 @@
 ------
 ## Top Repositories
 <a href="https://github.com/Ketch502m/ketch502m.github.io"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ketch502m&repo=ketch502m&theme=transparent" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ketch502m&repo=ketch502m.github.io&theme=transparent" /> 
 </a>
 
 ------
@@ -38,7 +38,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ketch502m&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketch502m&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Ketch502m" /></p> 
-
-[![wakatime](https://wakatime.com/badge/user/4f7352ed-785c-4fe0-b33f-cbd0619c2005.svg)](https://wakatime.com/@4f7352ed-785c-4fe0-b33f-cbd0619c2005)
 
 [![Ketch502m WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KETCH502M)](https://github.com/anuraghazra/github-readme-stats)
