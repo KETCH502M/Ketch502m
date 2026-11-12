@@ -39,6 +39,6 @@
 </a> </p>
 
 <h2 align="left">WINDOWS</h3>
-<p align="left"><a href="https://ubuntu.org" target="_blank" rel="noreferrer"> 
+<p align="left"><a href="https://microsoft.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="windows" width="80" height="80"/>     
 </a> </p>
